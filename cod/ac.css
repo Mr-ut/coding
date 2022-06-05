@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Roboto+Condensed&display=swap');
+.container1{
+    margin-top: 0px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(5,5,31,1) 35%, rgba(0,212,255,1) 100%);
+}
+.container1 h1{
+    color: white;
+    font-family: 'Caveat', cursive;
+    margin-left: 40%;
+    margin-top: 0%;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.image{
+    width: 338px;
+    margin-left: 183px;
+    border-radius: 37%;
+    display: flex;
+}
+.container1 h3{
+    color: white;
+    font-family: 'Caveat', cursive;
+    margin-left: 8%;
+    font-size: 30px;
+}
+.skills{
+    color: white;
+    margin-left: 8%;
+}
+.para{
+    color: white;
+    font-size: 25px;
+    margin-left: 8%;
+    font-family: 'Caveat', cursive;
+}
